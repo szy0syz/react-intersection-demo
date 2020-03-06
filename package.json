@@ -1,0 +1,22 @@
+{
+  "name": "react-intersection-demo",
+  "version": "1.0.0",
+  "description": "react useIntersection",
+  "main": "index.js",
+  "repository": "https://github.com/szy0syz/react-intersection-demo.git",
+  "author": "szy0syz",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.2"
+  },
+  "scripts": {
+    "watch": "parcel src/index.html"
+  },
+  "dependencies": {
+    "gsap": "^3.2.4",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "react-use": "^13.27.0"
+  }
+}

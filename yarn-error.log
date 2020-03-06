@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/szy0syz/.nvm/versions/node/v10.17.0/bin/node /Users/szy0syz/.yarn/bin/yarn.js init
+
+PATH: 
+  /Users/szy0syz/.yarn/bin:/Users/szy0syz/.config/yarn/global/node_modules/.bin:/Users/szy0syz/.nvm/versions/node/v10.17.0/bin:/Users/szy0syz/.cargo/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/szy0syz/.antigen/bundles/robbyrussell/oh-my-zsh/lib:/Users/szy0syz/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/git:/Users/szy0syz/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/heroku:/Users/szy0syz/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/pip:/Users/szy0syz/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/lein:/Users/szy0syz/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/command-not-found:/Users/szy0syz/.antigen/bundles/zsh-users/zsh-completions:/Users/szy0syz/.antigen/bundles/zsh-users/zsh-autosuggestions:/Users/szy0syz/.antigen/bundles/zsh-users/zsh-syntax-highlighting
+
+Yarn version: 
+  1.19.2
+
+Node version: 
+  10.17.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/Users/szy0syz/.yarn/lib/cli.js:136846:13)
+      at Interface.emit (events.js:198:13)
+      at Interface._ttyWrite (readline.js:801:16)
+      at ReadStream.onkeypress (readline.js:184:10)
+      at ReadStream.emit (events.js:198:13)
+      at emitKeys (internal/readline.js:424:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1073:36)
+      at ReadStream.emit (events.js:198:13)
+      at addChunk (_stream_readable.js:287:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
